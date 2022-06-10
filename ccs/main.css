@@ -1,0 +1,19 @@
+.carrusel {
+  height: 350px;
+  width: 650px;
+  margin-left: 27%; }
+  .carruselc1 {
+    margin-left: 25%;
+    display: flex;
+    justify-content: initial;
+    padding: 10px; }
+  .carruselc2 {
+    margin-left: 28%;
+    display: flex;
+    justify-content: initial;
+    padding: 10px; }
+  .carruselc3 {
+    margin-left: 23%;
+    display: flex;
+    justify-content: initial;
+    padding: 10px; }
