@@ -17,3 +17,9 @@
     display: flex;
     justify-content: initial;
     padding: 10px; }
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  padding: 25rem;
+  margin-left: 50%; }
