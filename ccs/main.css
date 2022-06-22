@@ -18,6 +18,10 @@
     justify-content: initial;
     padding: 10px; }
 
+.imgC {
+  object-fit: contain;
+  width: max-content; }
+
 .img-fluid {
   max-width: 100%;
   height: auto;
